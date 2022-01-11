@@ -1,1 +1,3 @@
-# jmm-reus-2022-ejemplo-java-01
+# Mi primer proyecto Java 
+
+Ejemplo de proyecto generado con jdk 8.
